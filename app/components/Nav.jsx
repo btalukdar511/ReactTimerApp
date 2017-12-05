@@ -11,7 +11,7 @@ var Nav = React.createClass({
                             React Timer App
                         </li>
                         <li>
-                            <IndexLink to="/Timer" activeClassName="active-class">
+                            <IndexLink to="/" activeClassName="active-class">
                                 Timer
                             </IndexLink>
                         </li>

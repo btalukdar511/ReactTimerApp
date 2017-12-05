@@ -1,12 +1,11 @@
 var React = require('react');
+var Clock = require('Clock');
 
 var Stopwatch = React.createClass({
     render: function () {
         return (
             <div>
-                <h1>
-                    Stopwatch page
-                </h1>
+                <Clock totalSeconds={129}/>
             </div>
         );
     }
