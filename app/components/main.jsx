@@ -5,10 +5,10 @@ var Main = (props) => {
     return (
         <div>
             <Nav/>
-            <div>
-                <div>
-                    {/*<div className="grid-x">*/}
-                    {/*<div className="cell large-6 small-8 cent">*/}
+            {/*<div>*/}
+            {/*<div>*/}
+            <div className="grid-x">
+                <div className="cell large-6 small-8 cent">
                     {props.children}
                 </div>
             </div>

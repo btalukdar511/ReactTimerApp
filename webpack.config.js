@@ -26,6 +26,7 @@ module.exports = {
             Timer: 'app/components/Timer.jsx',
             Stopwatch: 'app/components/Stopwatch.jsx',
             Clock: 'app/components/Clock.jsx',
+            TimerForm: 'app/components/TimerForm.jsx',
 
             Main: 'app/components/Main.jsx',
             applicationStyles: 'app/styles/app.scss'
