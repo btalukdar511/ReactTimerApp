@@ -6,7 +6,7 @@ var Stopwatch = require('Stopwatch');
 var Timer = require('Timer');
 
 //load foundation
-require('style-loader!css-loader!foundation-sites/dist/css/foundation.min.css');
+// require('style-loader!css-loader!foundation-sites/dist/css/foundation.min.css');
 $(document).foundation();
 
 //app css

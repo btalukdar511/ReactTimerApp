@@ -8,7 +8,7 @@ var Main = (props) => {
             {/*<div>*/}
             {/*<div>*/}
             <div className="grid-x">
-                <div className="cell large-6 small-8 cent">
+                <div className="cell large-4 small-8 cent">
                     {props.children}
                 </div>
             </div>

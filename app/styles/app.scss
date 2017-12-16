@@ -1,7 +1,17 @@
 @import "base/varriable";
+
+//foundation
+@import "base/foundation-settings";
+@import "foundation";
+@include foundation-everything;
+
+//components
 @import "components/navigation";
 @import "components/clock";
 @import "components/timerForm";
+@import "components/controls";
+@import "components/page-title";
+
 
 .cent{
   margin: auto;
